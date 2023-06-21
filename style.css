@@ -6,5 +6,12 @@
 }
 body{
     background-color:var(--cor-de-fundo);
-    
+    color:var(--branco-principal)
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.principal{
+    background-image: url('IMAGENS/Background.png');
 }
